@@ -449,7 +449,41 @@ footer .foot .foot1 i{
     font-size: 15px;
     cursor: pointer;
     padding: 2px 5px;
+    width: 5px;
+    height: auto;
+    position: relative;
+    left: 80px;
 
+}
+footer .foot .foot1 .pfoot{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 80px;
+}
+footer .foot .foot1 .hfoot{
+    width: 130%;
+    height: auto;
+    position: relative;
+    left: 80px;
+}
+footer .foot .foot1 input{
+    width: 100px;
+    height: auto;
+    position: relative;
+
+}
+footer .foot .foot1 .abp{
+    width: 70%;
+    height: auto;
+    position: relative;
+
+}
+footer .foot .foot1 .adp{
+    width: 100%;
+    height: auto;
+    position: relative;
+    right: 100px;
 }
 footer .foot .foot1 i:hover{
     color: #8293ff;
